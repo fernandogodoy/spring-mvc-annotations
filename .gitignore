@@ -2,4 +2,5 @@
 /build
 *.classpath
 *.settings
+.tern-project
 .project
